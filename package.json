@@ -1,0 +1,22 @@
+{
+  "name": "tecpars-chat",
+  "version": "1.0.0",
+  "description": "a professional chat system for professionals",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tecparsnet/tecpars-chat.git"
+  },
+  "keywords": [
+    "tecpars-chat"
+  ],
+  "author": "TecParsNet",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tecparsnet/tecpars-chat/issues"
+  },
+  "homepage": "https://github.com/tecparsnet/tecpars-chat#readme"
+}
